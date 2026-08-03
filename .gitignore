@@ -1,0 +1,25 @@
+# Obsidian workspace state (per-machine, produces a diff on every open)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/workspaces.json
+
+# Obsidian caches / trash
+.obsidian/cache
+.obsidian/.trash/
+.trash/
+
+# OS
+.DS_Store
+Thumbs.db
+._*
+
+# Editor
+*.swp
+*~
+.vscode/
+.idea/
+
+# Python / notebook byproducts (in case code ends up in the vault)
+__pycache__/
+*.pyc
+.ipynb_checkpoints/

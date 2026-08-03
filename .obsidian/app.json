@@ -1,0 +1,9 @@
+{
+  "newFileLocation": "folder",
+  "newFileFolderPath": "00_Inbox",
+  "attachmentFolderPath": "_meta/assets",
+  "openBehavior": "file:Home",
+  "vimMode": true,
+  "readableLineLength": true,
+  "showLineNumber": true
+}
